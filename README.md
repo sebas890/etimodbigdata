@@ -1,1 +1,2 @@
-# etimodbigdata
+# Etimodbigdata
+Ejercicios realizados en clase
